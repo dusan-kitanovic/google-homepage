@@ -1,0 +1,58 @@
+li {
+  display: inline-block;
+}
+
+input {
+  padding: 10px;
+  margin: 5px;
+}
+
+input[type="text"] {
+  width: 400px;
+}
+
+#header {
+  height: 50px;
+  width: 100%;
+}
+
+#header ul {
+  float: right;
+}
+
+#main {
+  margin: auto;
+}
+
+#logo {
+  width: 30%;
+  margin: 0 auto;
+}
+
+#logo img {
+  width: 270px;
+  height: 90px;
+  display: block;
+  margin: 0 auto;
+}
+
+#search {
+  width: 50%;
+  margin: 0 auto;
+}
+
+#footer {
+  height: 50px;
+  width: 100%;
+  background-color: gray;
+  position:absolute;
+  bottom:0;
+}
+
+#l-menu {
+  float: left;
+}
+
+#r-menu {
+  float: right;
+}
